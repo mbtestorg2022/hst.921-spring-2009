@@ -77,11 +77,48 @@ The students will form multidisciplinary groups to analyze, develop, and present
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation and project team exercises | 30% |
-| Final oral presentation | 25% |
-| Final report | 45% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and project team exercises
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final report
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Students may elect to take the course on a Pass-Fail basis with permission from the Registrar for their academic programs.
 
@@ -96,19 +133,328 @@ Teams will be given an opportunity to practice their presentation skills and pol
 Calendar
 --------
 
-| SES # | LECTURE TOPICS | INVITED SPEAKERS | TUTORIAL / PRACTICUM TOPICS |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Welcome and course introduction {{< br >}}{{< br >}} Evolution of cybermedicine {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Course faculty {{< br >}}{{< br >}} Dr. Warner Slack {{< br >}}{{< br >}}  | Project description and overview |
-| 2 | Industry overview: the future of healthcare |  {{< br >}}{{< br >}} Dr. Steven Locke {{< br >}}{{< br >}} Dr. Danny Sands {{< br >}}{{< br >}} Lynne Dunbrack {{< br >}}{{< br >}} Dr. Craig Schneider, PhD {{< br >}}{{< br >}}  | Projects presentations |
-| 3 | Federal policy as a driver for HIT innovation | Dr. Karen M. Bell | Project assignments |
-| 4 | eHRs, pHRs & xHRs! | Dr. Danny Sands | Makings of a team; uniqueness and complementary assets |
-| 5 | The role of innovation in enterprise computing | John Glaser, CIO of Partners Healthcare | Definition of an elevator pitch; key elements of business plan development |
-| 6 | Classroom simulation for a product design process | Dr. Bryan Bergeron | Team mini-presentation 1: Project Summary |
-| 7 | From disease management to population health management |  {{< br >}}{{< br >}} Dr. Steven Locke {{< br >}}{{< br >}} Dr. Danny Sands {{< br >}}{{< br >}} Judith Frampton {{< br >}}{{< br >}} Al Lewis {{< br >}}{{< br >}} Dr. David Judge {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Team Mini-Presentation 2: Uniqueness and complementary assets {{< br >}}{{< br >}} Practice elevator pitch {{< br >}}{{< br >}}  |
-| 8 | An investor's view of startups |  {{< br >}}{{< br >}} Eugene Hill, SV Lifesciences {{< br >}}{{< br >}} Yumin Choi, HLM Venture Partners {{< br >}}{{< br >}} Christian Bailey, IncTank {{< br >}}{{< br >}}  | Team Mini-Presentation 3: elevator pitch |
-| 9 | Patient power; medical home; patient-centric care |  {{< br >}}{{< br >}} Michael Lemnitzer, Philips Telehealth {{< br >}}{{< br >}} Deb Theobald, Vecna {{< br >}}{{< br >}} Jason Sroka, Orange Labs {{< br >}}{{< br >}} Sean Khozin, HelloHealth {{< br >}}{{< br >}}  | Mentor and team session |
-| 10 | Starting up: funding sources for for-profit and social entrepreneurship |  {{< br >}}{{< br >}} Christian Cortis, ATVentures {{< br >}}{{< br >}} Anita Goel, Nanobioism {{< br >}}{{< br >}} Richard Anders, Mass Medical Angels {{< br >}}{{< br >}} Josko Silobrcic, HubAngels {{< br >}}{{< br >}}  | Mentor and team session |
-| 11 | Innovation |  {{< br >}}{{< br >}} Dr. Larry Nathanson, Beth Israel Hospital {{< br >}}{{< br >}} Patrick Boyle, IBM {{< br >}}{{< br >}} Jeff Carter, Patients Without Borders {{< br >}}{{< br >}} Stan Nowak, Silverlink Communications {{< br >}}{{< br >}} Paul Crawford, Intel {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Entrepreneurs panel |  {{< br >}}{{< br >}} Peter T. Lomedico, Juvenile Diabetes Foundation {{< br >}}{{< br >}} Ben Williams, FireFly Health {{< br >}}{{< br >}} Chaim Indig, Phreesia {{< br >}}{{< br >}} Josh Feast, Cogito Health {{< br >}}{{< br >}} Barbara S. Fox, Avaxia Biologics {{< br >}}{{< br >}} Dr. Richard Gliklich, Outcome {{< br >}}{{< br >}}  | Final team QandA w/ mentors |
-| 13 | Final project presentations | &nbsp; |
-| 14 | Global perspective on health informatics business | Keith Strier, Deloitte LLP |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INVITED SPEAKERS
+{{< thclose >}}
+{{< thopen >}}
+TUTORIAL / PRACTICUM TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Welcome and course introduction
+
+Evolution of cybermedicine
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course faculty
+
+Dr. Warner Slack
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Project description and overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Industry overview: the future of healthcare
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dr. Steven Locke
+
+Dr. Danny Sands
+
+Lynne Dunbrack
+
+Dr. Craig Schneider, PhD
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Projects presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Federal policy as a driver for HIT innovation
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Karen M. Bell
+{{< tdclose >}}
+{{< tdopen >}}
+Project assignments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+eHRs, pHRs & xHRs!
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Danny Sands
+{{< tdclose >}}
+{{< tdopen >}}
+Makings of a team; uniqueness and complementary assets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The role of innovation in enterprise computing
+{{< tdclose >}}
+{{< tdopen >}}
+John Glaser, CIO of Partners Healthcare
+{{< tdclose >}}
+{{< tdopen >}}
+Definition of an elevator pitch; key elements of business plan development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Classroom simulation for a product design process
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Bryan Bergeron
+{{< tdclose >}}
+{{< tdopen >}}
+Team mini-presentation 1: Project Summary
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+From disease management to population health management
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dr. Steven Locke
+
+Dr. Danny Sands
+
+Judith Frampton
+
+Al Lewis
+
+Dr. David Judge
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Team Mini-Presentation 2: Uniqueness and complementary assets
+
+Practice elevator pitch
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+An investor's view of startups
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Eugene Hill, SV Lifesciences
+
+Yumin Choi, HLM Venture Partners
+
+Christian Bailey, IncTank
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Team Mini-Presentation 3: elevator pitch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Patient power; medical home; patient-centric care
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Michael Lemnitzer, Philips Telehealth
+
+Deb Theobald, Vecna
+
+Jason Sroka, Orange Labs
+
+Sean Khozin, HelloHealth
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mentor and team session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Starting up: funding sources for for-profit and social entrepreneurship
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Christian Cortis, ATVentures
+
+Anita Goel, Nanobioism
+
+Richard Anders, Mass Medical Angels
+
+Josko Silobrcic, HubAngels
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mentor and team session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Innovation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dr. Larry Nathanson, Beth Israel Hospital
+
+Patrick Boyle, IBM
+
+Jeff Carter, Patients Without Borders
+
+Stan Nowak, Silverlink Communications
+
+Paul Crawford, Intel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurs panel
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Peter T. Lomedico, Juvenile Diabetes Foundation
+
+Ben Williams, FireFly Health
+
+Chaim Indig, Phreesia
+
+Josh Feast, Cogito Health
+
+Barbara S. Fox, Avaxia Biologics
+
+Dr. Richard Gliklich, Outcome
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final team QandA w/ mentors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Global perspective on health informatics business
+{{< tdclose >}}
+{{< tdopen >}}
+Keith Strier, Deloitte LLP
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

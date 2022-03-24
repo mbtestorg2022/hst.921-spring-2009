@@ -132,9 +132,9 @@ Innovation
 
 Nowak, Stan, and Jack Newsom. "Adaptive HealthComm Science™: The Application of Decision Science to Effectively Drive Healthcare Behaviors and Improve Health Outcomes." Silverlink Whitepaper, July 2008.
 
-Buchanan, Mark. "Secret Signals." _Nature_ 457 (January 29, 2009) 528-530. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB](http://hd.media.mit.edu/01.29.09_naturemag_secsig.pdf))
+Buchanan, Mark. "Secret Signals." _Nature_ 457 (January 29, 2009) 528-530. ([PDF - 1.5MB](http://hd.media.mit.edu/01.29.09_naturemag_secsig.pdf))
 
-Sung, Michael, Carl Marci, and Alex (Sandy) Pentland. "Objective Physiological and Behavioral Measures for Identifying and Tracking Depression State in Clinically Depressed Patients." MIT Media Laboratory Technical Report, October 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5MB](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.153.7027&rep=rep1&type=pdf))
+Sung, Michael, Carl Marci, and Alex (Sandy) Pentland. "Objective Physiological and Behavioral Measures for Identifying and Tracking Depression State in Clinically Depressed Patients." MIT Media Laboratory Technical Report, October 2005. ([PDF - 2.5MB](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.153.7027&rep=rep1&type=pdf))
 
 
 {{< tdclose >}}
@@ -156,7 +156,7 @@ Senior, Melanie. "Venture Philanthropy: The New Venture Capital?" _Start-Up Maga
 
 Nordling, Linda. "[Tapping Into Foundations](http://www.nature.com/bioent/building/financing/032007/full/bioent918.html)." _Bioentrpreneur: Bioe News_, March 2007.
 
-Winkler, Anne-Laure, and David Finegold. "Giving Patients a Say: How to Work with Patient Advocacy Groups." _Nature Biotechnology_ 26, no. 1 (January 2008): 23-26. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/5601364_Giving_patients_a_say_How_to_work_with_patient_advocacy_groups))
+Winkler, Anne-Laure, and David Finegold. "Giving Patients a Say: How to Work with Patient Advocacy Groups." _Nature Biotechnology_ 26, no. 1 (January 2008): 23-26. ([PDF](https://www.researchgate.net/publication/5601364_Giving_patients_a_say_How_to_work_with_patient_advocacy_groups))
 
 Winstein, Keith J. "[Disease Charities Pursue Cures by Investing in Drug Start-Ups](http://online.wsj.com/article/SB123422285836865433.html)." _Wall Street Journal_, February 10, 2009.
 

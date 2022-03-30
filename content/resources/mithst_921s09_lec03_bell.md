@@ -4,6 +4,7 @@ description: Lecture presentation on healthcare information technology, electron
   health records, and the 2014 Goal and Vision for Health IT (HIT).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/92c7a7adf319bd77baeeb1961cc2ed7f_MITHST_921S09_lec03_bell.pdf
 file_type: application/pdf
+parent_uid: 2f515bfd-1d28-0500-e4d5-ad730d9ebf30
 resourcetype: Document
 title: 'Health IT and Electronic Health Records: More Complicated Than You Thought'
 uid: 92c7a7ad-f319-bd77-baee-b1961cc2ed7f
